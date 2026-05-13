@@ -22,6 +22,12 @@ npm install
 npm run start
 ```
 
+You can also start it directly with Expo:
+
+```bash
+npx expo start
+```
+
 Then update:
 
 - `package.json` name
@@ -36,4 +42,3 @@ Then update:
 3. Put business logic in `services/`.
 4. Keep all colors, radius, spacing, and typography in `constants/theme.ts`.
 5. Use `ProAccessContext` for paid feature gates, then swap the stub with the production RevenueCat integration when needed.
-
