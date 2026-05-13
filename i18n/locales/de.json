@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "MathApex",
+    "tagline": "Kluge Ubung, spielerischer Fortschritt"
+  },
+  "tabs": {
+    "home": "Home",
+    "learn": "Lernen",
+    "games": "Spiele",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Bereit fur die heutige Ubung?",
+    "subtitle": "Starte eine kurze Einheit und halte deine Serie.",
+    "start": "Ubung starten",
+    "dailyGoal": "Tagesziel",
+    "score": "Gesamtpunkte"
+  },
+  "games": {
+    "title": "Arcade-Modi",
+    "classic": "Classic Catch",
+    "classicDesc": "Schnelles Zahlenerkennen im Arcade-Stil.",
+    "duel": "Number Duel",
+    "duelDesc": "Premium-Duell auf einem Gerat.",
+    "open": "Offnen"
+  },
+  "pro": {
+    "badge": "PRO",
+    "title": "MathApex Pro freischalten",
+    "subtitle": "Dieses Template-Modal ersetzt du spater durch RevenueCat oder deine Paywall.",
+    "unlock": "Im Template freischalten",
+    "close": "Nicht jetzt"
+  },
+  "common": {
+    "continue": "Weiter",
+    "reset": "Zurucksetzen"
+  }
+}
+

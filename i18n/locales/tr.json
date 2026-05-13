@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "MathApex",
+    "tagline": "Akilli pratik, oyunlu ilerleme"
+  },
+  "tabs": {
+    "home": "Ana Sayfa",
+    "learn": "Ogren",
+    "games": "Oyunlar",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Bugunku pratige hazir misin?",
+    "subtitle": "Kisa bir calisma sec ve seriyi devam ettir.",
+    "start": "Pratige basla",
+    "dailyGoal": "Gunluk hedef",
+    "score": "Toplam puan"
+  },
+  "games": {
+    "title": "Arcade modlari",
+    "classic": "Classic Catch",
+    "classicDesc": "Arcade temposunda hizli sayi tanima.",
+    "duel": "Number Duel",
+    "duelDesc": "Ayni cihazda premium duello modu.",
+    "open": "Ac"
+  },
+  "pro": {
+    "badge": "PRO",
+    "title": "MathApex Pro'yu ac",
+    "subtitle": "Bu template modalini daha sonra RevenueCat veya kendi paywall'un ile degistir.",
+    "unlock": "Template icinde ac",
+    "close": "Simdi degil"
+  },
+  "common": {
+    "continue": "Devam",
+    "reset": "Sifirla"
+  }
+}
+

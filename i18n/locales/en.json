@@ -1,0 +1,39 @@
+{
+  "app": {
+    "name": "MathApex",
+    "tagline": "Smart practice, playful progress"
+  },
+  "tabs": {
+    "home": "Home",
+    "learn": "Learn",
+    "games": "Games",
+    "profile": "Profile"
+  },
+  "home": {
+    "title": "Ready for today's practice?",
+    "subtitle": "Pick a focused session and keep the streak moving.",
+    "start": "Start practice",
+    "dailyGoal": "Daily goal",
+    "score": "Total score"
+  },
+  "games": {
+    "title": "Arcade modes",
+    "classic": "Classic Catch",
+    "classicDesc": "Fast number recognition with arcade pacing.",
+    "duel": "Number Duel",
+    "duelDesc": "A premium same-device challenge mode.",
+    "open": "Open"
+  },
+  "pro": {
+    "badge": "PRO",
+    "title": "Unlock MathApex Pro",
+    "subtitle": "Use this template modal as the placeholder for RevenueCat or your own paywall.",
+    "unlock": "Unlock in template",
+    "close": "Not now"
+  },
+  "common": {
+    "continue": "Continue",
+    "reset": "Reset"
+  }
+}
+
